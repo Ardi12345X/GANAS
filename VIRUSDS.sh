@@ -2,6 +2,7 @@
 #belajar bro supaya bisa buat sc sendiri
 # sv no wa saya +6283192644730
 #script ini hanya untuk hiburan aja
+clear
 sleep 5
 echo -e "\e[91mhecked by M3R4Z
 \e[0m";
